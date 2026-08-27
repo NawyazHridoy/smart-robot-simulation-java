@@ -42,4 +42,4 @@ The complete project report (`Smart_Robot_Simulation_Report.pdf`) is included in
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/YourUsername/YourRepositoryName.git](https://github.com/YourUsername/YourRepositoryName.git)
+   git clone [(https://github.com/NawyazHridoy/smart-robot-simulation-java)
