@@ -36,7 +36,7 @@ The complete project report (`Smart_Robot_Simulation_Report.pdf`) is included in
 *   Step-by-step breakdowns of the BFS AI pathfinding logic and boundary condition mapping.
 *   Mapping of the project to Complex Engineering Problem solving standards and Course Outcomes.
 
-📥 **[Read the Full Project Report Here][Smart Robot Simulation Project Report  .pdf](../Smart%20Robot%20Simulation%20Project%20Report%20%20.pdf)(Smart_Robot_Simulation_Report.docx)**
+
 
 ## 🚀 How to Run the Project
 
